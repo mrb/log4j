@@ -5,3 +5,4 @@ This product includes source code based on Sun
 Microsystems' book titled "Java Nativer Interface:
 Programmer's Guide and Specification" and freely available
 to the public at http://java.sun.com/docs/books/jni.
+
